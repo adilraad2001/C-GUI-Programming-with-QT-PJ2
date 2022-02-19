@@ -1,6 +1,10 @@
 ![zzz](https://user-images.githubusercontent.com/93819249/140656971-73999986-75c3-41c0-b0ef-5b2995bc6f50.jpg)
 
-# Programming Widget Layout                                                                                                                    
+# Programming Widget Layout     
+
+
+
+**[The Second Part of the work](./another-page.html)**
 
 ## <span style="color:red">Introduction:</span>
 
